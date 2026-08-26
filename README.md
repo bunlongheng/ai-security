@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="docs/icon.png" alt="AI Security" width="96" height="96" />
+  <h1>AI Security</h1>
+  <p><em>Automated OSS security auditing that turns merged fixes into a live, provable PR record</em></p>
+  <p><a href="https://github.com/bunlongheng/ai-security">Repo</a> &middot; <a href="https://bunlongheng.com/projects?name=ai-security">Portfolio</a></p>
+  <img src="docs/social-preview.png" alt="AI Security - preview" width="820" />
+</div>
+
+---
+
 # ai-security
 
 Turns real, merged security fixes to popular open-source projects into a public, provable engineering record - discovered, audited, and tracked automatically.
